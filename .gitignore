@@ -203,7 +203,7 @@ fabric.properties
 ### Example user template
 
 # IntelliJ project files
-.idea
+.idea/
 *.iml
 out
 gen### Windows template
@@ -229,6 +229,3 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
-
-.gitignore 제거할 예정
-__pycache__/ 제거할 예정
